@@ -21,6 +21,9 @@ and the extracted audio embeddings are clustered into these speakers; and option
 * [Paper link](https://arxiv.org/pdf/1710.10468.pdf)
 * [Document](https://google.github.io/speaker-id/publications/LstmDiarization/)
 
+# demo video:
+https://youtu.be/axfAxfhe1Ko
+
 
 
 
